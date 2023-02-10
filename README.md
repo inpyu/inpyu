@@ -16,7 +16,7 @@
 # 🌐Community
 
 - GDSC-2nd-Member
-- CAUUMC-3rd-Spring
+- UMC-3rd-Spring
 
 # 💭Etc
 
