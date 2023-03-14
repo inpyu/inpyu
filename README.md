@@ -17,6 +17,8 @@
 
 - GDSC-2nd-Member
 - UMC-3rd-Spring
+- UMC-4th-Spring Lead
+- UMC-4th-Vice Lead
 
 # 💭Etc
 
