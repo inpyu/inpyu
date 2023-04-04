@@ -16,9 +16,8 @@
 # 🌐Community
 
 - CCA 2022 Member
-- UMC-3rd-Spring
-- UMC-4th-Spring Lead
-- UMC-4th-Vice Lead
+- UMC 3rd Spring
+- UMC 4th Spring Lead & Vice Lead
 - CUAI 5th Basic Member
 - CUAI 6th Adv Member & Management
 
