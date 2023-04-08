@@ -20,7 +20,7 @@
 - UMC 4th Spring Lead & Vice Lead
 - CUAI 5th Basic Member
 - CUAI 6th Adv Member & Management
-- 
+- S-Developer 1st Student
 
 # 💭Etc
 
