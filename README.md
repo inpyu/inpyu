@@ -23,6 +23,7 @@
 - CUAI 6th Adv Member & Management
 - Securious 1st Member(Development)
 - S-Developer 1st Student
+- OSSCA Naver Cloud Terraform
 
 # 💭Etc
 
