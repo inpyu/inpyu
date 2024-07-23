@@ -16,14 +16,11 @@
 # 🌐Community
 
 - CCA 2022 Member
-- UMC 3rd Spring
-- UMC 4th Spring Lead & Vice Lead
-- UMC 5th Spring OB
-- CUAI 5th Basic Member
-- CUAI 6th Adv Member & Management
+- UMC 3rd - 5th Spring
+- CUAI 5th Basic Member, 6th Adv Member & Management
 - Securious 1st Member(Development)
 - S-Developer 1st Student
-- OSSCA Naver Cloud Terraform
+- OSSCA Naver Cloud Terraform & Litmus Chaos
 
 # 💭Etc
 
