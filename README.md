@@ -56,6 +56,3 @@
 
 ![Inpyu's github stats](https://github-readme-stats.vercel.app/api?username=inpyu&show_icons=true&tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dayeon620)](https://solved.ac/dayeon620)
-
-#### Algorithm 
-![python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
