@@ -33,9 +33,9 @@
  - [name making](https://github.com/University-MakeUs-Challenge/3rd-hackathon-Team3)
 
 **Open Source Contribution**
-- **Litmus** Developed fuzz tests for Chaos Infrastructure to enhance testing coverage. [(#4816)](https://github.com/litmuschaos/litmus/pull/4816)
-- **Litmus JDK** Developed a Java Development Kit (JDK) for Litmus to support Java developers using the framework. [(#29)](https://github.com/litmuschaos/litmus-java-sdk/pull/29)
-- **Naver Cloud Terraform Provider)** Migrated Naver Cloud Load Balancer implementation from SDK-based to Framework-based version. [(#430)](https://github.com/NaverCloudPlatform/terraform-provider-ncloud/pull/430)
+- **[Litmus]** Developed fuzz tests for Chaos Infrastructure to enhance testing coverage. [(#4816)](https://github.com/litmuschaos/litmus/pull/4816)
+- **[Litmus JDK]** Developed a Java Development Kit (JDK) for Litmus to support Java developers using the framework. [(#29)](https://github.com/litmuschaos/litmus-java-sdk/pull/29)
+- **[Naver Cloud Terraform Provider]** Migrated Naver Cloud Load Balancer implementation from SDK-based to Framework-based version. [(#430)](https://github.com/NaverCloudPlatform/terraform-provider-ncloud/pull/430)
 
 ### 🏅 Awards
 | Awards | Grade | Date | Note |
