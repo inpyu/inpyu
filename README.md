@@ -4,7 +4,7 @@
   
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dayeon-jung-19b219256/)
 [![Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white)](https://inpyu.github.io/)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finclue)](https://github.com/inpyu)
+[![Hits](https://hitmeup-backend-593087166771.asia-northeast1.run.app/api/count/increment?url=https%3A%2F%2Fgithub.com%2Finpyu&title=hits&title_bg=555555&count_bg=79c83d&edge_flat=false)](https://hitmeup-backend-593087166771.asia-northeast1.run.app)
 
 **Interested in Cloud, Backend, Distributed Architecture Infrastructure**
 
